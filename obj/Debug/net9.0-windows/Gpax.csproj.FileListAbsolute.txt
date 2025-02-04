@@ -1,0 +1,16 @@
+E:\Mas Cs\Gpax\bin\Debug\net9.0-windows\Gpax.exe
+E:\Mas Cs\Gpax\bin\Debug\net9.0-windows\Gpax.deps.json
+E:\Mas Cs\Gpax\bin\Debug\net9.0-windows\Gpax.runtimeconfig.json
+E:\Mas Cs\Gpax\bin\Debug\net9.0-windows\Gpax.dll
+E:\Mas Cs\Gpax\bin\Debug\net9.0-windows\Gpax.pdb
+E:\Mas Cs\Gpax\obj\Debug\net9.0-windows\Gpax.Form1.resources
+E:\Mas Cs\Gpax\obj\Debug\net9.0-windows\Gpax.csproj.GenerateResource.cache
+E:\Mas Cs\Gpax\obj\Debug\net9.0-windows\Gpax.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mas Cs\Gpax\obj\Debug\net9.0-windows\Gpax.AssemblyInfoInputs.cache
+E:\Mas Cs\Gpax\obj\Debug\net9.0-windows\Gpax.AssemblyInfo.cs
+E:\Mas Cs\Gpax\obj\Debug\net9.0-windows\Gpax.csproj.CoreCompileInputs.cache
+E:\Mas Cs\Gpax\obj\Debug\net9.0-windows\Gpax.dll
+E:\Mas Cs\Gpax\obj\Debug\net9.0-windows\refint\Gpax.dll
+E:\Mas Cs\Gpax\obj\Debug\net9.0-windows\Gpax.pdb
+E:\Mas Cs\Gpax\obj\Debug\net9.0-windows\Gpax.genruntimeconfig.cache
+E:\Mas Cs\Gpax\obj\Debug\net9.0-windows\ref\Gpax.dll
